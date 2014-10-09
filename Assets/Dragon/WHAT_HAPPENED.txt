@@ -1,0 +1,9 @@
+Hey all, 
+yep, the whole scene and effects were changed, fbx-es reimported, animations re-set, everything. This is because I decided to make the pack work under unity 3.5.
+
+But fear not. In the "!OldVersion_Unity4" folder, you can find the previous package if you need it for some reason. That one only works under unity 4.x! Otherwise this package is just as good as the previous one.
+
+If you have any request or comment, feel free to write at kalamona01@gmail.com.
+
+cheers,
+Gergely Zsolnay
